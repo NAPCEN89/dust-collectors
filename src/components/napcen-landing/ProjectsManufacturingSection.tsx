@@ -63,7 +63,7 @@ export default function ProjectsManufacturingSection({
       {/* Background Industrial Factory Render Overlay (Top-Right) */}
       <div className="absolute top-0 right-0 w-full md:w-[68%] lg:w-[58%] xl:w-[52%] h-[320px] sm:h-[400px] lg:h-[460px] pointer-events-none z-0 overflow-hidden">
         <Image
-          src="/napcen-manufacturing-factory.jpg"
+          src="/Blue Napcen Filtration Plant Panorama.png"
           alt="Napcen Industrial Plant & Equipment"
           fill
           className="object-cover object-left-top opacity-75 sm:opacity-85 mix-blend-multiply brightness-105 contrast-[1.02]"
@@ -138,7 +138,7 @@ export default function ProjectsManufacturingSection({
                 {/* Equipment Image */}
                 <div className="relative w-36 h-48 sm:w-44 sm:h-56 shrink-0 -mt-2 -mr-1">
                   <Image
-                    src="/Industrial Blue Hopper with Yellow Safety Ladder.png"
+                    src="/Dust collector project image 01.png"
                     alt="Industrial Blue Hopper with Yellow Safety Ladder"
                     fill
                     sizes="(max-width: 768px) 150px, 200px"
@@ -217,7 +217,7 @@ export default function ProjectsManufacturingSection({
                 {/* Equipment Image */}
                 <div className="relative w-36 h-48 sm:w-44 sm:h-56 shrink-0 -mt-2 -mr-1">
                   <Image
-                    src="/Blue and White Industrial Dust Collector.png"
+                    src="/Dust collector project image 02.png"
                     alt="Blue and White Industrial Dust Collector"
                     fill
                     sizes="(max-width: 768px) 150px, 200px"
@@ -296,7 +296,7 @@ export default function ProjectsManufacturingSection({
                 {/* Equipment Image */}
                 <div className="relative w-36 h-48 sm:w-44 sm:h-56 shrink-0 -mt-2 -mr-1">
                   <Image
-                    src="/Industrial Blue Separator and Stainless Tank.png"
+                    src="/Cyclone Dust Collector (1).png"
                     alt="Industrial Blue Separator and Stainless Tank"
                     fill
                     sizes="(max-width: 768px) 150px, 200px"

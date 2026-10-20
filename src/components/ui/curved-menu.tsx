@@ -40,7 +40,7 @@ const MENU_SLIDE_ANIMATION: Variants = {
 
 export const defaultNavItems: iNavItem[] = [
   {
-    heading: "Collectors",
+    heading: "Dust Collectors",
     href: "#collectors",
     subheading: "Dust collection systems",
   },

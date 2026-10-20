@@ -246,8 +246,8 @@ export default function NapcenLandingPage() {
             <Image src="/Napcen-logo.webp" alt="NAPCEN Logo" width={140} height={50} className="object-contain" />
           </a>
 
-          <nav className="hidden lg:flex items-center gap-7 xl:gap-8 text-sm font-bold text-slate-700">
-            <a href="#collectors" className="hover:text-primary-blue transition-colors">Collectors</a>
+          <nav className="hidden lg:flex items-center gap-6 xl:gap-8 text-sm font-bold text-slate-700">
+            <a href="#collectors" className="hover:text-primary-blue transition-colors">Dust Collectors</a>
             <a href="#applications" className="hover:text-primary-blue transition-colors">Applications</a>
             <a href="#how-it-works" className="hover:text-primary-blue transition-colors">How it works</a>
             <a href="#projects" className="hover:text-primary-blue transition-colors">Projects</a>
@@ -413,6 +413,7 @@ export default function NapcenLandingPage() {
                           <option value="Cyclone dust collector" className="text-slate-700">Cyclone dust collector</option>
                           <option value="Portable dust collector" className="text-slate-700">Portable dust collector</option>
                           <option value="Two-stage dust collector" className="text-slate-700">Two-stage dust collector</option>
+                          <option value="Downdraft Dust collector" className="text-slate-700">Downdraft Dust collector</option>
                           <option value="Wet dust collector" className="text-slate-700">Wet dust collector</option>
                         </select>
                       </div>
@@ -1294,7 +1295,7 @@ export default function NapcenLandingPage() {
               <div className="w-full lg:w-[52%] xl:w-[54%] relative">
                 <div className="relative w-full aspect-[1563/1006] rounded-2xl overflow-hidden select-none">
                   <Image
-                    src="/Industrial Dust Collection System.png"
+                    src="/Industrial Dust Collection System with Napcen Logo.png"
                     alt="Industrial Dust Collection System Scope Diagram"
                     fill
                     sizes="(max-width: 1024px) 100vw, 55vw"
